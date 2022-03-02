@@ -1,0 +1,4 @@
+1. Have the files 'LoughranMcDonald_MasterDictionary_2020.xlsx', 'Input.xlsx' and 'StopWords_Generic.txt' in the same path as the code 'TextAnalysisBlackCoffer.py'.
+2. Execute the code 'TextAnalysisBlackCoffer.py'.
+3. Ensure that there are 170 text files created with all Titles and paragraphs extracted from all 170 links.
+4. Check the output CSV file 'OutputData.csv' and confirm if all 170 rows of data are distributed across all the analysis measures.
